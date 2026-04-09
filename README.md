@@ -1,0 +1,1 @@
+# bindexp-email-assets
